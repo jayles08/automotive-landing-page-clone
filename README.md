@@ -7,7 +7,7 @@ This repository is a **frontend development exercise** created strictly for educ
 
 ## 🛠️ Tech Stack
 * **HTML5** (Semantic layout architecture)
-* **CSS3** (Flexbox, Grid, and responsive media queries)
+* **CSS3** (Flexbox, and responsive media queries)
 * **Vanilla JavaScript** (Interactions and animations)
 
 ## ⚖️ Attribution & Disclaimer
